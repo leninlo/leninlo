@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I am Lenin 👋
 
 <!--
 **leninlo/leninlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📚 Student
+Currently, I'm studying Computer Science at UNAM. 
+
+⌛ Free Time
+Often, I think that it's important to enjoy every moment. 
+I love playing the guitar; I really enjoy it.
+
+<!--👾 Planes a futuro
+Me gustaría viajar por el mundo para obtener conocimiento nuevo sobre cultura, pensamiento y . -->
+
