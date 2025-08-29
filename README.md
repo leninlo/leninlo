@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 📚 Student
+
 Currently, I'm studying Computer Science at UNAM. 
 
 ⌛ Free Time
+
 Often, I think that it's important to enjoy every moment. 
 I love playing the guitar; I really enjoy it.
 
