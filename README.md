@@ -1,4 +1,4 @@
-## Hi! I am Lenin 👋
+## 👋 Hi! I am Lenin 🤠
 
 <!--
 **leninlo/leninlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📚 Student
+- 📚 Student <br>
+  - Currently, I'm studying Computer Science at UNAM. 
 
-Currently, I'm studying Computer Science at UNAM. 
+- ⌛ Free Time <br>
+  - Often, I think that it's important to enjoy every moment. <br>
+  - I love playing the guitar; I really enjoy it.
 
-⌛ Free Time
-
-Often, I think that it's important to enjoy every moment. 
-I love playing the guitar; I really enjoy it.
-
-<!--👾 Planes a futuro
-Me gustaría viajar por el mundo para obtener conocimiento nuevo sobre cultura, pensamiento y . -->
+- 👾 Future Plans
+  - I want to be able to boost the technological development of my country. <br>
+  - I would like to start a software development company.
 
