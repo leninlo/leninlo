@@ -45,10 +45,19 @@ Here are some ideas to get you started:
 
 <h2 align="center">GitHub Stats 📈</h2>
 <br>
+<div align=""Center>
+ 
+| Ultimate Streak | CtorW's Stats|
+| ------------- | ------------- |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leninlo&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | [![leninlo GitHub stats](https://github-readme-stats.vercel.app/api?username=leninlo&theme=algolia)](https://github.com/leninlo/github-readme-stats) |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leninlo&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![leninlo GitHub stats](https://github-readme-stats.vercel.app/api?username=leninlo&theme=algolia)](https://github.com/leninlo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninlo&theme=algolia)](https://github.com/leninlo/github-readme-stats)
+| My Languages |
+|--------------- |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leninlo&theme=algolia)](https://github.com/leninlo/github-readme-stats) |
+
+
+</div>
+
 
 <br>
 
